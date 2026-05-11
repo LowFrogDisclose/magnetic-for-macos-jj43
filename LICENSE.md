@@ -1,4 +1,4 @@
-
+custom Plugin for Magnetic for macOS - dark-mode and menu-bar-customization offers the most advanced Magnetic for macOS plugin, with dark-mode and menu-bar-customization. Ideal
 
 
 
